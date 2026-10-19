@@ -522,27 +522,3 @@ If you modify SQL queries in `sql/queries/` or migrations in `sql/schema/`:
 
 ---
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. **Fork the repository**
-2. **Create a feature branch**:
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**:
-   ```bash
-   git commit -m "feat: add amazing feature"
-   ```
-4. **Push to your branch**:
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
-
----
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
